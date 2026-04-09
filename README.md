@@ -58,10 +58,6 @@ A WPF desktop application demonstrating 3-tier architecture pattern with SQL Ser
 | Business Layer | clsContacts.cs, clsCountries.cs |
 | Data Layer | DataLayerContacts.cs, DataLayerCountries.cs |
 
-## Screenshots
-
-(Add your application screenshots here)
-
 ## License
 
 MIT License
