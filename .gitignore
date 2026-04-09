@@ -1,0 +1,44 @@
+# .NET
+bin/
+obj/
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Test Results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Build
+bld/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+
+# NuGet
+.nuget/
